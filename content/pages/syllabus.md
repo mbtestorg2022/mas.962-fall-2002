@@ -17,11 +17,48 @@ How do words get their meanings? How can word meanings be represented and used b
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Bi-weekly paper critiques | 40% |
-| Class participation | 20% |
-| Term project / paper | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bi-weekly paper critiques
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project / paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Section 1 – Overview
 --------------------
